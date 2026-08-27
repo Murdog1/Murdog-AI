@@ -1,0 +1,784 @@
+{
+  "plugins": [
+    {
+      "name": "EssentialsX",
+      "desc": "Essential commands: /home, /tpa, /warp, kits, economy",
+      "category": "economy",
+      "version": "2.20.1",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/EssentialsX/Essentials/releases/download/2.20.1/EssentialsX-2.20.1.jar"
+      },
+      "platform": "both",
+      "installName": "EssentialsX-2.20.1.jar"
+    },
+    {
+      "name": "Vault",
+      "desc": "Economy/chat/permissions API bridge for plugin integration",
+      "category": "economy",
+      "version": "1.7.3",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar"
+      },
+      "platform": "both",
+      "installName": "Vault.jar"
+    },
+    {
+      "name": "ChestShop",
+      "desc": "Create player shops using signs and chests",
+      "category": "economy",
+      "version": "3.12.2",
+      "via": "modrinth",
+      "src": {
+        "slug": "chestshop"
+      },
+      "platform": "both",
+      "installName": "ChestShop.jar"
+    },
+    {
+      "name": "Shopkeepers",
+      "desc": "Admin and player shopkeepers with custom trades",
+      "category": "economy",
+      "version": "3.32.0",
+      "via": "spiget",
+      "src": {
+        "spiget": 80756
+      },
+      "platform": "both",
+      "installName": "Shopkeepers.jar"
+    },
+    {
+      "name": "PlayerVaults",
+      "desc": "Personal storage vaults per player with GUI",
+      "category": "economy",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 9228
+      },
+      "platform": "spigot",
+      "installName": "PlayerVaults.jar"
+    },
+    {
+      "name": "PlayerShops",
+      "desc": "Let players create their own shops in-world",
+      "category": "economy",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 58443
+      },
+      "platform": "both",
+      "installName": "PlayerShops.jar"
+    },
+    {
+      "name": "Jobs",
+      "desc": "Job/class system: miner, builder, hunter, fisher",
+      "category": "economy",
+      "version": "5.1.0.1",
+      "via": "spiget",
+      "src": {
+        "spiget": 4216
+      },
+      "platform": "both",
+      "installName": "Jobs.jar"
+    },
+    {
+      "name": "EconomyShopGUI",
+      "desc": "GUI-based shop with categories and bulk buying",
+      "category": "economy",
+      "version": "5.16.3",
+      "via": "spiget",
+      "src": {
+        "spiget": 69927
+      },
+      "platform": "both",
+      "installName": "EconomyShopGUI.jar"
+    },
+    {
+      "name": "Gringotts",
+      "desc": "Vault-compatible economy with physical currency",
+      "category": "economy",
+      "version": "3.4.2",
+      "via": "spiget",
+      "src": {
+        "spiget": 42071
+      },
+      "platform": "both",
+      "installName": "Gringotts.jar"
+    },
+    {
+      "name": "CustomCrafting",
+      "desc": "Create custom recipes and crafting patterns",
+      "category": "economy",
+      "version": "1.12.2",
+      "via": "modrinth",
+      "src": {
+        "slug": "customcrafting"
+      },
+      "platform": "both",
+      "installName": "CustomCrafting.jar"
+    },
+    {
+      "name": "SkillAPI",
+      "desc": "RPG skill system with custom classes and leveling",
+      "category": "economy",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 4824
+      },
+      "platform": "both",
+      "installName": "SkillAPI.jar"
+    },
+    {
+      "name": "LuckPerms",
+      "desc": "Advanced permissions management with web editor",
+      "category": "permissions",
+      "version": "5.4.130",
+      "via": "spiget",
+      "src": {
+        "spiget": 28140
+      },
+      "platform": "both",
+      "installName": "LuckPerms.jar"
+    },
+    {
+      "name": "PermissionsEx",
+      "desc": "Per-world permissions and prefix support",
+      "category": "permissions",
+      "version": "2.0.1",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/PEXPlugins/PermissionsEx/releases/download/STABLE-1.23.4/PermissionsEx-1.23.4.jar"
+      },
+      "platform": "both",
+      "installName": "PermissionsEx-1.23.4.jar"
+    },
+    {
+      "name": "zPerms",
+      "desc": "Lightweight permissions plugin with YAML storage",
+      "category": "permissions",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 42661
+      },
+      "platform": "both",
+      "installName": "zPerms.jar"
+    },
+    {
+      "name": "bPermissions",
+      "desc": "Fast, lightweight permissions with web editor",
+      "category": "permissions",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 1053
+      },
+      "platform": "both",
+      "installName": "bPermissions.jar"
+    },
+    {
+      "name": "GroupManager",
+      "desc": "Groups-based permissions system from ElgarL",
+      "category": "permissions",
+      "version": "Latest",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/ElgarL/GroupManager/releases/latest/download/GroupManager.jar"
+      },
+      "platform": "both",
+      "installName": "GroupManager.jar"
+    },
+    {
+      "name": "WorldEdit",
+      "desc": "In-game world editing with selection tools",
+      "category": "building",
+      "version": "7.3.5",
+      "via": "modrinth",
+      "src": {
+        "slug": "worldedit"
+      },
+      "platform": "both",
+      "installName": "WorldEdit.jar"
+    },
+    {
+      "name": "FAWE",
+      "desc": "FastAsyncWorldEdit for lag-free world editing",
+      "category": "building",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "fastasyncworldedit"
+      },
+      "platform": "paper",
+      "installName": "FAWE.jar"
+    },
+    {
+      "name": "MyPlot",
+      "desc": "Plot-based building with custom plot worlds",
+      "category": "building",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 124086
+      },
+      "platform": "both",
+      "installName": "MyPlot.jar"
+    },
+    {
+      "name": "PlotSquared",
+      "desc": "Advanced plot system with world generation",
+      "category": "building",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 1177
+      },
+      "platform": "paper",
+      "installName": "PlotSquared.jar"
+    },
+    {
+      "name": "Residence",
+      "desc": "Land claiming with flags, containers and permissions",
+      "category": "building",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 2697
+      },
+      "platform": "both",
+      "installName": "Residence.jar"
+    },
+    {
+      "name": "GriefPrevention",
+      "desc": "Automatic land claim protection using golden shovel",
+      "category": "building",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "griefprevention"
+      },
+      "platform": "both",
+      "installName": "GriefPrevention.jar"
+    },
+    {
+      "name": "Lands",
+      "desc": "Advanced land claiming with trust levels and GUI",
+      "category": "building",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 8228
+      },
+      "platform": "paper",
+      "installName": "Lands.jar"
+    },
+    {
+      "name": "CoreProtect",
+      "desc": "Block rollback, inspection & logging",
+      "category": "gameplay",
+      "version": "22.2",
+      "via": "modrinth",
+      "src": {
+        "slug": "coreprotect"
+      },
+      "platform": "paper",
+      "installName": "CoreProtect.jar"
+    },
+    {
+      "name": "Dynmap",
+      "desc": "Live web-based map of your Minecraft world",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "dynmap"
+      },
+      "platform": "both",
+      "installName": "Dynmap.jar"
+    },
+    {
+      "name": "BlueMap",
+      "desc": "Modern web-based 3D map with WebGL rendering",
+      "category": "gameplay",
+      "version": "3.20",
+      "via": "spiget",
+      "src": {
+        "spiget": 83557
+      },
+      "platform": "both",
+      "installName": "BlueMap.jar"
+    },
+    {
+      "name": "ViaVersion",
+      "desc": "Cross-version support for newer clients",
+      "category": "gameplay",
+      "version": "4.10.0",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/ViaVersion/ViaVersion/releases/download/5.11.0/ViaVersion-5.11.0.jar"
+      },
+      "platform": "paper",
+      "installName": "ViaVersion-5.11.0.jar"
+    },
+    {
+      "name": "ProtocolLib",
+      "desc": "Network packet API for plugin developers",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 1997
+      },
+      "platform": "both",
+      "installName": "ProtocolLib.jar"
+    },
+    {
+      "name": "Denizen",
+      "desc": "Advanced scripting engine for Minecraft",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 21039
+      },
+      "platform": "both",
+      "installName": "Denizen.jar"
+    },
+    {
+      "name": "HolographicDisplays",
+      "desc": "Create floating text holograms and displays",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 27821
+      },
+      "platform": "both",
+      "installName": "HolographicDisplays.jar"
+    },
+    {
+      "name": "HeadDB",
+      "desc": "Thousands of player heads for decoration",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 84967
+      },
+      "platform": "both",
+      "installName": "HeadDB.jar"
+    },
+    {
+      "name": "HeadDatabase",
+      "desc": "Player heads database with search and GUI",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 95118
+      },
+      "platform": "both",
+      "installName": "HeadDatabase.jar"
+    },
+    {
+      "name": "OpenInv",
+      "desc": "Open any player inventory remotely as admin",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/Jikoo/OpenInv/releases/download/5.3.3/OpenInv.jar"
+      },
+      "platform": "both",
+      "installName": "OpenInv.jar"
+    },
+    {
+      "name": "TAB",
+      "desc": "Custom tab list, name tags and header/footer",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 8
+      },
+      "platform": "both",
+      "installName": "TAB.jar"
+    },
+    {
+      "name": "MiniMOTD",
+      "desc": "Custom server MOTD with MiniMessage format",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "minimotd"
+      },
+      "platform": "both",
+      "installName": "MiniMOTD.jar"
+    },
+    {
+      "name": "VentureChat",
+      "desc": "Advanced chat with channels, markdown, and party chat",
+      "category": "gameplay",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 771
+      },
+      "platform": "both",
+      "installName": "VentureChat.jar"
+    },
+    {
+      "name": "NoCheatPlus",
+      "desc": "Detect and prevent exploitation and cheats",
+      "category": "anticheat",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 26
+      },
+      "platform": "both",
+      "installName": "NoCheatPlus.jar"
+    },
+    {
+      "name": "SkinsRestorer",
+      "desc": "Restore and change player skins on any server",
+      "category": "fun",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "skinsrestorer"
+      },
+      "platform": "both",
+      "installName": "SkinsRestorer.jar"
+    },
+    {
+      "name": "MythicMobs",
+      "desc": "Custom mobs with skills, drops and AI scripting",
+      "category": "fun",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "mythicmobs"
+      },
+      "platform": "both",
+      "installName": "MythicMobs.jar"
+    },
+    {
+      "name": "MobArena",
+      "desc": "Mob fighting arena with waves and rewards",
+      "category": "fun",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 34110
+      },
+      "platform": "both",
+      "installName": "MobArena.jar"
+    },
+    {
+      "name": "BossShopPro",
+      "desc": "Custom GUI menus, chest shops and NPC shops",
+      "category": "fun",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 222
+      },
+      "platform": "both",
+      "installName": "BossShopPro.jar"
+    },
+    {
+      "name": "ArmorStandEditor",
+      "desc": "Pose and customize armor stands in-game",
+      "category": "fun",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 106314
+      },
+      "platform": "both",
+      "installName": "ArmorStandEditor.jar"
+    },
+    {
+      "name": "DiscordSRV",
+      "desc": "Link Minecraft chat to Discord channels",
+      "category": "fun",
+      "version": "Latest",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/DiscordSRV/DiscordSRV/releases/download/v1.30.5/DiscordSRV-Build-1.30.5.jar"
+      },
+      "platform": "spigot",
+      "installName": "DiscordSRV-Build-1.30.5.jar"
+    },
+    {
+      "name": "SuperTrails",
+      "desc": "Player trail effects and particle paths",
+      "category": "fun",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 1879
+      },
+      "platform": "both",
+      "installName": "SuperTrails.jar"
+    },
+    {
+      "name": "TitleManager",
+      "desc": "Animated titles, actionbar and tablist headers",
+      "category": "fun",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 1049
+      },
+      "platform": "both",
+      "installName": "TitleManager.jar"
+    },
+    {
+      "name": "DeluxeMenus",
+      "desc": "GUI plugin with configurable menu system",
+      "category": "fun",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 11734
+      },
+      "platform": "both",
+      "installName": "DeluxeMenus.jar"
+    },
+    {
+      "name": "Votifier",
+      "desc": "Receive votes from server lists for rewards",
+      "category": "admin",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 596
+      },
+      "platform": "both",
+      "installName": "Votifier.jar"
+    },
+    {
+      "name": "Sentinel",
+      "desc": "NPC guard/sentinel combat AI from Denizen",
+      "category": "admin",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 22017
+      },
+      "platform": "both",
+      "installName": "Sentinel.jar"
+    },
+    {
+      "name": "Parties",
+      "desc": "Create and manage player parties",
+      "category": "minigames",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "parties"
+      },
+      "platform": "both",
+      "installName": "Parties.jar"
+    },
+    {
+      "name": "Factions",
+      "desc": "Classic factions for territory and PvP control",
+      "category": "minigames",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 1900
+      },
+      "platform": "both",
+      "installName": "Factions.jar"
+    },
+    {
+      "name": "AcidIsland",
+      "desc": "Skyblock variant with acid and challenges",
+      "category": "minigames",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 581
+      },
+      "platform": "both",
+      "installName": "AcidIsland.jar"
+    },
+    {
+      "name": "BedWars",
+      "desc": "Bed Wars minigame with teams and upgrades",
+      "category": "minigames",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 6799
+      },
+      "platform": "both",
+      "installName": "BedWars.jar"
+    },
+    {
+      "name": "TheBridge",
+      "desc": "The Bridge PvP minigame",
+      "category": "minigames",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 30616
+      },
+      "platform": "both",
+      "installName": "TheBridge.jar"
+    },
+    {
+      "name": "GeyserMC",
+      "desc": "Bedrock cross-play support for Java servers",
+      "category": "misc",
+      "version": "Latest",
+      "via": "github",
+      "src": {
+        "github": "https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot"
+      },
+      "platform": "both",
+      "installName": "GeyserMC.jar"
+    },
+    {
+      "name": "Floodgate",
+      "desc": "Hybrid mode for Bedrock without Geyser",
+      "category": "misc",
+      "version": "Latest",
+      "via": "github",
+      "src": {
+        "github": "https://download.geysermc.org/v2/projects/floodgate/versions/latest/builds/latest/downloads/spigot"
+      },
+      "platform": "both",
+      "installName": "Floodgate.jar"
+    },
+    {
+      "name": "ViaBackwards",
+      "desc": "Allow older clients to join newer servers",
+      "category": "misc",
+      "version": "4.10.0",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/ViaVersion/ViaBackwards/releases/download/5.11.0/ViaBackwards-5.11.0.jar"
+      },
+      "platform": "both",
+      "installName": "ViaBackwards-5.11.0.jar"
+    },
+    {
+      "name": "ViaRewind",
+      "desc": "Support very old client versions on modern servers",
+      "category": "misc",
+      "version": "3.0.6",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/ViaVersion/ViaRewind/releases/download/4.1.3/ViaRewind-4.1.3.jar"
+      },
+      "platform": "both",
+      "installName": "ViaRewind-4.1.3.jar"
+    },
+    {
+      "name": "UltimateChat",
+      "desc": "Advanced chat formatting with multiple channels",
+      "category": "misc",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "ultimatechat"
+      },
+      "platform": "both",
+      "installName": "UltimateChat.jar"
+    },
+    {
+      "name": "ChatManager",
+      "desc": "Chat filtering, formatting and management",
+      "category": "misc",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 7399
+      },
+      "platform": "both",
+      "installName": "ChatManager.jar"
+    },
+    {
+      "name": "PlaceholderAPI",
+      "desc": "Variable placeholders for all plugins",
+      "category": "misc",
+      "version": "2.11.6",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/2.12.3/PlaceholderAPI-2.12.3.jar"
+      },
+      "platform": "both",
+      "installName": "PlaceholderAPI-2.12.3.jar"
+    },
+    {
+      "name": "AutoMessage",
+      "desc": "Automated broadcast messages on intervals",
+      "category": "misc",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "automessage"
+      },
+      "platform": "both",
+      "installName": "AutoMessage.jar"
+    },
+    {
+      "name": "DailyRewards",
+      "desc": "Daily login rewards and streak bonuses",
+      "category": "misc",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "dailyrewards"
+      },
+      "platform": "both",
+      "installName": "DailyRewards.jar"
+    },
+    {
+      "name": "TimedReward",
+      "desc": "Timed play rewards based on online time",
+      "category": "misc",
+      "version": "Latest",
+      "via": "spiget",
+      "src": {
+        "spiget": 35361
+      },
+      "platform": "both",
+      "installName": "TimedReward.jar"
+    },
+    {
+      "name": "Multiverse",
+      "desc": "Manage multiple worlds with different settings",
+      "category": "misc",
+      "version": "Latest",
+      "via": "github",
+      "src": {
+        "github": "https://github.com/Multiverse/Multiverse-Core/releases/download/5.8.0/multiverse-core-5.8.0.jar"
+      },
+      "platform": "both",
+      "installName": "multiverse-core-5.8.0.jar"
+    },
+    {
+      "name": "WorldGuard",
+      "desc": "Protect regions with flags and zones",
+      "category": "building",
+      "version": "Latest",
+      "via": "modrinth",
+      "src": {
+        "slug": "worldguard"
+      },
+      "platform": "both",
+      "installName": "WorldGuard.jar"
+    }
+  ]
+}
