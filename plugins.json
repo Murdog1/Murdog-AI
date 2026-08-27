@@ -3,782 +3,3385 @@
     {
       "name": "EssentialsX",
       "desc": "Essential commands: /home, /tpa, /warp, kits, economy",
-      "category": "economy",
       "version": "2.20.1",
-      "via": "github",
+      "category": "economy",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/EssentialsX/Essentials/releases/download/2.20.1/EssentialsX-2.20.1.jar"
       },
-      "platform": "both",
       "installName": "EssentialsX-2.20.1.jar"
     },
     {
       "name": "Vault",
       "desc": "Economy/chat/permissions API bridge for plugin integration",
-      "category": "economy",
       "version": "1.7.3",
-      "via": "github",
+      "category": "economy",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar"
       },
-      "platform": "both",
       "installName": "Vault.jar"
     },
     {
       "name": "ChestShop",
       "desc": "Create player shops using signs and chests",
-      "category": "economy",
       "version": "3.12.2",
-      "via": "modrinth",
+      "category": "economy",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "chestshop"
       },
-      "platform": "both",
       "installName": "ChestShop.jar"
     },
     {
       "name": "Shopkeepers",
       "desc": "Admin and player shopkeepers with custom trades",
-      "category": "economy",
       "version": "3.32.0",
-      "via": "spiget",
+      "category": "economy",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 80756
       },
-      "platform": "both",
       "installName": "Shopkeepers.jar"
     },
     {
       "name": "PlayerVaults",
       "desc": "Personal storage vaults per player with GUI",
-      "category": "economy",
       "version": "Latest",
-      "via": "spiget",
+      "category": "economy",
+      "platform": "spigot",
+      "source": "spigotmc",
       "src": {
         "spiget": 9228
       },
-      "platform": "spigot",
       "installName": "PlayerVaults.jar"
     },
     {
       "name": "PlayerShops",
       "desc": "Let players create their own shops in-world",
-      "category": "economy",
       "version": "Latest",
-      "via": "spiget",
+      "category": "economy",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 58443
       },
-      "platform": "both",
       "installName": "PlayerShops.jar"
     },
     {
       "name": "Jobs",
       "desc": "Job/class system: miner, builder, hunter, fisher",
-      "category": "economy",
       "version": "5.1.0.1",
-      "via": "spiget",
+      "category": "economy",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 4216
       },
-      "platform": "both",
       "installName": "Jobs.jar"
     },
     {
       "name": "EconomyShopGUI",
       "desc": "GUI-based shop with categories and bulk buying",
-      "category": "economy",
       "version": "5.16.3",
-      "via": "spiget",
+      "category": "economy",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 69927
       },
-      "platform": "both",
       "installName": "EconomyShopGUI.jar"
     },
     {
       "name": "Gringotts",
       "desc": "Vault-compatible economy with physical currency",
-      "category": "economy",
       "version": "3.4.2",
-      "via": "spiget",
+      "category": "economy",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 42071
       },
-      "platform": "both",
       "installName": "Gringotts.jar"
     },
     {
       "name": "CustomCrafting",
       "desc": "Create custom recipes and crafting patterns",
-      "category": "economy",
       "version": "1.12.2",
-      "via": "modrinth",
+      "category": "economy",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "customcrafting"
       },
-      "platform": "both",
       "installName": "CustomCrafting.jar"
     },
     {
       "name": "SkillAPI",
       "desc": "RPG skill system with custom classes and leveling",
-      "category": "economy",
       "version": "Latest",
-      "via": "spiget",
+      "category": "economy",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 4824
       },
-      "platform": "both",
       "installName": "SkillAPI.jar"
     },
     {
       "name": "LuckPerms",
       "desc": "Advanced permissions management with web editor",
-      "category": "permissions",
       "version": "5.4.130",
-      "via": "spiget",
+      "category": "permissions",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 28140
       },
-      "platform": "both",
       "installName": "LuckPerms.jar"
     },
     {
       "name": "PermissionsEx",
       "desc": "Per-world permissions and prefix support",
-      "category": "permissions",
       "version": "2.0.1",
-      "via": "github",
+      "category": "permissions",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/PEXPlugins/PermissionsEx/releases/download/STABLE-1.23.4/PermissionsEx-1.23.4.jar"
       },
-      "platform": "both",
       "installName": "PermissionsEx-1.23.4.jar"
     },
     {
       "name": "zPerms",
       "desc": "Lightweight permissions plugin with YAML storage",
-      "category": "permissions",
       "version": "Latest",
-      "via": "spiget",
+      "category": "permissions",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 42661
       },
-      "platform": "both",
       "installName": "zPerms.jar"
     },
     {
       "name": "bPermissions",
       "desc": "Fast, lightweight permissions with web editor",
-      "category": "permissions",
       "version": "Latest",
-      "via": "spiget",
+      "category": "permissions",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 1053
       },
-      "platform": "both",
       "installName": "bPermissions.jar"
     },
     {
       "name": "GroupManager",
       "desc": "Groups-based permissions system from ElgarL",
-      "category": "permissions",
       "version": "Latest",
-      "via": "github",
+      "category": "permissions",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/ElgarL/GroupManager/releases/latest/download/GroupManager.jar"
       },
-      "platform": "both",
       "installName": "GroupManager.jar"
     },
     {
       "name": "WorldEdit",
       "desc": "In-game world editing with selection tools",
-      "category": "building",
       "version": "7.3.5",
-      "via": "modrinth",
+      "category": "building",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "worldedit"
       },
-      "platform": "both",
       "installName": "WorldEdit.jar"
     },
     {
       "name": "FAWE",
       "desc": "FastAsyncWorldEdit for lag-free world editing",
-      "category": "building",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "building",
+      "platform": "paper",
+      "source": "modrinth",
       "src": {
         "slug": "fastasyncworldedit"
       },
-      "platform": "paper",
       "installName": "FAWE.jar"
     },
     {
       "name": "MyPlot",
       "desc": "Plot-based building with custom plot worlds",
-      "category": "building",
       "version": "Latest",
-      "via": "spiget",
+      "category": "building",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 124086
       },
-      "platform": "both",
       "installName": "MyPlot.jar"
     },
     {
       "name": "PlotSquared",
       "desc": "Advanced plot system with world generation",
-      "category": "building",
       "version": "Latest",
-      "via": "spiget",
+      "category": "building",
+      "platform": "paper",
+      "source": "spigotmc",
       "src": {
         "spiget": 1177
       },
-      "platform": "paper",
       "installName": "PlotSquared.jar"
     },
     {
       "name": "Residence",
       "desc": "Land claiming with flags, containers and permissions",
-      "category": "building",
       "version": "Latest",
-      "via": "spiget",
+      "category": "building",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 2697
       },
-      "platform": "both",
       "installName": "Residence.jar"
     },
     {
       "name": "GriefPrevention",
       "desc": "Automatic land claim protection using golden shovel",
-      "category": "building",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "building",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "griefprevention"
       },
-      "platform": "both",
       "installName": "GriefPrevention.jar"
     },
     {
       "name": "Lands",
       "desc": "Advanced land claiming with trust levels and GUI",
-      "category": "building",
       "version": "Latest",
-      "via": "spiget",
+      "category": "building",
+      "platform": "paper",
+      "source": "spigotmc",
       "src": {
         "spiget": 8228
       },
-      "platform": "paper",
       "installName": "Lands.jar"
     },
     {
       "name": "CoreProtect",
       "desc": "Block rollback, inspection & logging",
-      "category": "gameplay",
       "version": "22.2",
-      "via": "modrinth",
+      "category": "gameplay",
+      "platform": "paper",
+      "source": "modrinth",
       "src": {
         "slug": "coreprotect"
       },
-      "platform": "paper",
       "installName": "CoreProtect.jar"
     },
     {
       "name": "Dynmap",
       "desc": "Live web-based map of your Minecraft world",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "dynmap"
       },
-      "platform": "both",
       "installName": "Dynmap.jar"
     },
     {
       "name": "BlueMap",
       "desc": "Modern web-based 3D map with WebGL rendering",
-      "category": "gameplay",
       "version": "3.20",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 83557
       },
-      "platform": "both",
       "installName": "BlueMap.jar"
     },
     {
       "name": "ViaVersion",
       "desc": "Cross-version support for newer clients",
-      "category": "gameplay",
       "version": "4.10.0",
-      "via": "github",
+      "category": "gameplay",
+      "platform": "paper",
+      "source": "github",
       "src": {
         "github": "https://github.com/ViaVersion/ViaVersion/releases/download/5.11.0/ViaVersion-5.11.0.jar"
       },
-      "platform": "paper",
       "installName": "ViaVersion-5.11.0.jar"
     },
     {
       "name": "ProtocolLib",
       "desc": "Network packet API for plugin developers",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 1997
       },
-      "platform": "both",
       "installName": "ProtocolLib.jar"
     },
     {
       "name": "Denizen",
       "desc": "Advanced scripting engine for Minecraft",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 21039
       },
-      "platform": "both",
       "installName": "Denizen.jar"
     },
     {
       "name": "HolographicDisplays",
       "desc": "Create floating text holograms and displays",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 27821
       },
-      "platform": "both",
       "installName": "HolographicDisplays.jar"
     },
     {
       "name": "HeadDB",
       "desc": "Thousands of player heads for decoration",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 84967
       },
-      "platform": "both",
       "installName": "HeadDB.jar"
     },
     {
       "name": "HeadDatabase",
       "desc": "Player heads database with search and GUI",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 95118
       },
-      "platform": "both",
       "installName": "HeadDatabase.jar"
     },
     {
       "name": "OpenInv",
       "desc": "Open any player inventory remotely as admin",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "github",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/Jikoo/OpenInv/releases/download/5.3.3/OpenInv.jar"
       },
-      "platform": "both",
       "installName": "OpenInv.jar"
     },
     {
       "name": "TAB",
       "desc": "Custom tab list, name tags and header/footer",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 8
       },
-      "platform": "both",
       "installName": "TAB.jar"
     },
     {
       "name": "MiniMOTD",
       "desc": "Custom server MOTD with MiniMessage format",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "minimotd"
       },
-      "platform": "both",
       "installName": "MiniMOTD.jar"
     },
     {
       "name": "VentureChat",
       "desc": "Advanced chat with channels, markdown, and party chat",
-      "category": "gameplay",
       "version": "Latest",
-      "via": "spiget",
+      "category": "gameplay",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 771
       },
-      "platform": "both",
       "installName": "VentureChat.jar"
     },
     {
       "name": "NoCheatPlus",
       "desc": "Detect and prevent exploitation and cheats",
-      "category": "anticheat",
       "version": "Latest",
-      "via": "spiget",
+      "category": "anticheat",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 26
       },
-      "platform": "both",
       "installName": "NoCheatPlus.jar"
     },
     {
       "name": "SkinsRestorer",
       "desc": "Restore and change player skins on any server",
-      "category": "fun",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "fun",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "skinsrestorer"
       },
-      "platform": "both",
       "installName": "SkinsRestorer.jar"
     },
     {
       "name": "MythicMobs",
       "desc": "Custom mobs with skills, drops and AI scripting",
-      "category": "fun",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "fun",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "mythicmobs"
       },
-      "platform": "both",
       "installName": "MythicMobs.jar"
     },
     {
       "name": "MobArena",
       "desc": "Mob fighting arena with waves and rewards",
-      "category": "fun",
       "version": "Latest",
-      "via": "spiget",
+      "category": "fun",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 34110
       },
-      "platform": "both",
       "installName": "MobArena.jar"
     },
     {
       "name": "BossShopPro",
       "desc": "Custom GUI menus, chest shops and NPC shops",
-      "category": "fun",
       "version": "Latest",
-      "via": "spiget",
+      "category": "fun",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 222
       },
-      "platform": "both",
       "installName": "BossShopPro.jar"
     },
     {
       "name": "ArmorStandEditor",
       "desc": "Pose and customize armor stands in-game",
-      "category": "fun",
       "version": "Latest",
-      "via": "spiget",
+      "category": "fun",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 106314
       },
-      "platform": "both",
       "installName": "ArmorStandEditor.jar"
     },
     {
       "name": "DiscordSRV",
       "desc": "Link Minecraft chat to Discord channels",
-      "category": "fun",
       "version": "Latest",
-      "via": "github",
+      "category": "fun",
+      "platform": "spigot",
+      "source": "github",
       "src": {
         "github": "https://github.com/DiscordSRV/DiscordSRV/releases/download/v1.30.5/DiscordSRV-Build-1.30.5.jar"
       },
-      "platform": "spigot",
       "installName": "DiscordSRV-Build-1.30.5.jar"
     },
     {
       "name": "SuperTrails",
       "desc": "Player trail effects and particle paths",
-      "category": "fun",
       "version": "Latest",
-      "via": "spiget",
+      "category": "fun",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 1879
       },
-      "platform": "both",
       "installName": "SuperTrails.jar"
     },
     {
       "name": "TitleManager",
       "desc": "Animated titles, actionbar and tablist headers",
-      "category": "fun",
       "version": "Latest",
-      "via": "spiget",
+      "category": "fun",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 1049
       },
-      "platform": "both",
       "installName": "TitleManager.jar"
     },
     {
       "name": "DeluxeMenus",
       "desc": "GUI plugin with configurable menu system",
-      "category": "fun",
       "version": "Latest",
-      "via": "spiget",
+      "category": "fun",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 11734
       },
-      "platform": "both",
       "installName": "DeluxeMenus.jar"
     },
     {
       "name": "Votifier",
       "desc": "Receive votes from server lists for rewards",
-      "category": "admin",
       "version": "Latest",
-      "via": "spiget",
+      "category": "admin",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 596
       },
-      "platform": "both",
       "installName": "Votifier.jar"
     },
     {
       "name": "Sentinel",
       "desc": "NPC guard/sentinel combat AI from Denizen",
-      "category": "admin",
       "version": "Latest",
-      "via": "spiget",
+      "category": "admin",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 22017
       },
-      "platform": "both",
       "installName": "Sentinel.jar"
     },
     {
       "name": "Parties",
       "desc": "Create and manage player parties",
-      "category": "minigames",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "minigames",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "parties"
       },
-      "platform": "both",
       "installName": "Parties.jar"
     },
     {
       "name": "Factions",
       "desc": "Classic factions for territory and PvP control",
-      "category": "minigames",
       "version": "Latest",
-      "via": "spiget",
+      "category": "minigames",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 1900
       },
-      "platform": "both",
       "installName": "Factions.jar"
     },
     {
       "name": "AcidIsland",
       "desc": "Skyblock variant with acid and challenges",
-      "category": "minigames",
       "version": "Latest",
-      "via": "spiget",
+      "category": "minigames",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 581
       },
-      "platform": "both",
       "installName": "AcidIsland.jar"
     },
     {
       "name": "BedWars",
       "desc": "Bed Wars minigame with teams and upgrades",
-      "category": "minigames",
       "version": "Latest",
-      "via": "spiget",
+      "category": "minigames",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 6799
       },
-      "platform": "both",
       "installName": "BedWars.jar"
     },
     {
       "name": "TheBridge",
       "desc": "The Bridge PvP minigame",
-      "category": "minigames",
       "version": "Latest",
-      "via": "spiget",
+      "category": "minigames",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 30616
       },
-      "platform": "both",
       "installName": "TheBridge.jar"
     },
     {
       "name": "GeyserMC",
       "desc": "Bedrock cross-play support for Java servers",
-      "category": "misc",
       "version": "Latest",
-      "via": "github",
+      "category": "misc",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot"
       },
-      "platform": "both",
       "installName": "GeyserMC.jar"
     },
     {
       "name": "Floodgate",
       "desc": "Hybrid mode for Bedrock without Geyser",
-      "category": "misc",
       "version": "Latest",
-      "via": "github",
+      "category": "misc",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://download.geysermc.org/v2/projects/floodgate/versions/latest/builds/latest/downloads/spigot"
       },
-      "platform": "both",
       "installName": "Floodgate.jar"
     },
     {
       "name": "ViaBackwards",
       "desc": "Allow older clients to join newer servers",
-      "category": "misc",
       "version": "4.10.0",
-      "via": "github",
+      "category": "misc",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/ViaVersion/ViaBackwards/releases/download/5.11.0/ViaBackwards-5.11.0.jar"
       },
-      "platform": "both",
       "installName": "ViaBackwards-5.11.0.jar"
     },
     {
       "name": "ViaRewind",
       "desc": "Support very old client versions on modern servers",
-      "category": "misc",
       "version": "3.0.6",
-      "via": "github",
+      "category": "misc",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/ViaVersion/ViaRewind/releases/download/4.1.3/ViaRewind-4.1.3.jar"
       },
-      "platform": "both",
       "installName": "ViaRewind-4.1.3.jar"
     },
     {
       "name": "UltimateChat",
       "desc": "Advanced chat formatting with multiple channels",
-      "category": "misc",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "ultimatechat"
       },
-      "platform": "both",
       "installName": "UltimateChat.jar"
     },
     {
       "name": "ChatManager",
       "desc": "Chat filtering, formatting and management",
-      "category": "misc",
       "version": "Latest",
-      "via": "spiget",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 7399
       },
-      "platform": "both",
       "installName": "ChatManager.jar"
     },
     {
       "name": "PlaceholderAPI",
       "desc": "Variable placeholders for all plugins",
-      "category": "misc",
       "version": "2.11.6",
-      "via": "github",
+      "category": "misc",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/2.12.3/PlaceholderAPI-2.12.3.jar"
       },
-      "platform": "both",
       "installName": "PlaceholderAPI-2.12.3.jar"
     },
     {
       "name": "AutoMessage",
       "desc": "Automated broadcast messages on intervals",
-      "category": "misc",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "automessage"
       },
-      "platform": "both",
       "installName": "AutoMessage.jar"
     },
     {
       "name": "DailyRewards",
       "desc": "Daily login rewards and streak bonuses",
-      "category": "misc",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "dailyrewards"
       },
-      "platform": "both",
       "installName": "DailyRewards.jar"
     },
     {
       "name": "TimedReward",
       "desc": "Timed play rewards based on online time",
-      "category": "misc",
       "version": "Latest",
-      "via": "spiget",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
       "src": {
         "spiget": 35361
       },
-      "platform": "both",
       "installName": "TimedReward.jar"
     },
     {
       "name": "Multiverse",
       "desc": "Manage multiple worlds with different settings",
-      "category": "misc",
       "version": "Latest",
-      "via": "github",
+      "category": "misc",
+      "platform": "both",
+      "source": "github",
       "src": {
         "github": "https://github.com/Multiverse/Multiverse-Core/releases/download/5.8.0/multiverse-core-5.8.0.jar"
       },
-      "platform": "both",
       "installName": "multiverse-core-5.8.0.jar"
     },
     {
       "name": "WorldGuard",
       "desc": "Protect regions with flags and zones",
-      "category": "building",
       "version": "Latest",
-      "via": "modrinth",
+      "category": "building",
+      "platform": "both",
+      "source": "modrinth",
       "src": {
         "slug": "worldguard"
       },
-      "platform": "both",
       "installName": "WorldGuard.jar"
+    },
+    {
+      "name": "WorldGuard",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "worldguard"
+      },
+      "installName": "worldguard-bukkit-7.0.18.jar"
+    },
+    {
+      "name": "ChestShop",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "chestshop"
+      },
+      "installName": "ChestShop.jar"
+    },
+    {
+      "name": "Vault",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "vault"
+      },
+      "installName": "Vault.jar"
+    },
+    {
+      "name": "mcMMO",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "mcmmo"
+      },
+      "installName": "mcMMO.jar"
+    },
+    {
+      "name": "Dynmap",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "dynmap"
+      },
+      "installName": "Dynmap-3.8-spigot.jar"
+    },
+    {
+      "name": "Factions",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "factions"
+      },
+      "installName": "Factions.jar"
+    },
+    {
+      "name": "LWC",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "lwc"
+      },
+      "installName": "LWC.jar"
+    },
+    {
+      "name": "LogBlock",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "logblock"
+      },
+      "installName": "LogBlock.jar"
+    },
+    {
+      "name": "CommandBook",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "commandbook"
+      },
+      "installName": "CommandBook.jar"
+    },
+    {
+      "name": "WorldBorder",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "worldborder"
+      },
+      "installName": "WorldBorder.jar"
+    },
+    {
+      "name": "SimpleClans",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "simpleclans"
+      },
+      "installName": "SimpleClans.jar"
+    },
+    {
+      "name": "CoreProtect",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "coreprotect"
+      },
+      "installName": "CoreProtect-CE-24.0.jar"
+    },
+    {
+      "name": "WorldEdit",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "worldedit"
+      },
+      "installName": "worldedit-bukkit-7.4.5.jar"
+    },
+    {
+      "name": "Lockette",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "lockette"
+      },
+      "installName": "Lockette.jar"
+    },
+    {
+      "name": "DeadBolt",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "deadbolt"
+      },
+      "installName": "Deadbolt-1.0-SNAPSHOT.jar"
+    },
+    {
+      "name": "Prism",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "prism"
+      },
+      "installName": "prism-paper-v4.4.jar"
+    },
+    {
+      "name": "NoCheatPlus",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "nocheatplus"
+      },
+      "installName": "NoCheatPlus.jar"
+    },
+    {
+      "name": "SilkSpawners",
+      "desc": "Classic plugin downloaded directly from dev.bukkit.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "bukkit",
+      "src": {
+        "bukkit": "silkspawners"
+      },
+      "installName": "SilkSpawners.jar"
+    },
+    {
+      "name": "TPS HUD",
+      "desc": "A fully customizable mod for fabric that displays the servers tps.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "tps-hud"
+      }
+    },
+    {
+      "name": "Pl3xMap",
+      "desc": "Pl3xMap is a minimalistic and lightweight world map viewer for Minecraft servers using the vanilla Minecraft r",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "pl3xmap"
+      }
+    },
+    {
+      "name": "pv-addon-groups",
+      "desc": "Create group voice chat channels. Keep talking with players far away.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "pv-addon-groups"
+      }
+    },
+    {
+      "name": "pv-addon-lavaplayer-lib",
+      "desc": "Add-on library with bundled needed for some Plasmo Voice add-ons.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "pv-addon-lavaplayer-lib"
+      }
+    },
+    {
+      "name": "Slumber",
+      "desc": "Let the server rest while there are no players online",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "slumber"
+      }
+    },
+    {
+      "name": "PAPIProxyBridge",
+      "desc": "A bridge library plugin for using PlaceholderAPI on proxy servers",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "papiproxybridge"
+      }
+    },
+    {
+      "name": "pv-addon-broadcast",
+      "desc": "Broadcast your voice to all players in the radius, world, server, or proxy.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "pv-addon-broadcast"
+      }
+    },
+    {
+      "name": "SQLite JDBC",
+      "desc": "SQLite JDBC driver for Forge/Fabric/Spigot",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "sqlite-jdbc"
+      }
+    },
+    {
+      "name": "ProximaTunnel",
+      "desc": "A plugin that allows you to play with friends on a local server without opening ports.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "proximatunnel"
+      }
+    },
+    {
+      "name": "SuperHarvest",
+      "desc": "Fast harvest, mining and tree chopping easily with a single mine, 3 in one to Vein-Mining with Animations but ",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "superharvest"
+      }
+    },
+    {
+      "name": "toNeko",
+      "desc": "Turn players into catgirls in Minecraft",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "toneko"
+      }
+    },
+    {
+      "name": "NoDim",
+      "desc": "A simple mod to disable end/nether portal collisions",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "no-dim"
+      }
+    },
+    {
+      "name": "XD's Library",
+      "desc": "XDPXI's library for numerous tasks.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "xdlib"
+      }
+    },
+    {
+      "name": "Minecraft SQLite JDBC",
+      "desc": "Up-to-date SQLite JDBC driver wrapped as a universal Forge/Fabric/Bukkit library for plugins like Dynmap and G",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "minecraft-sqlite-jdbc"
+      }
+    },
+    {
+      "name": "Console Spam Fix : Reborn",
+      "desc": "A log filter that hide configured messages or errors from console and logs.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "console-spam-fix-reborn"
+      }
+    },
+    {
+      "name": "pv-addon-voice-messages",
+      "desc": "Server-side Plasmo Voice addon that adds voice messages.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "pv-addon-voice-messages"
+      }
+    },
+    {
+      "name": "Hopper Speed Simulator",
+      "desc": "Change hopper transfer speed with a simple command!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "hopperspeedsim"
+      }
+    },
+    {
+      "name": "TAB-Bridge",
+      "desc": "An addon for TAB when it is installed on a proxy.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "tab-bridge"
+      }
+    },
+    {
+      "name": "AutoMessage [1.21]",
+      "desc": "⚡ AutoMessage is a high-performance plugin for fully customizable automatic server-wide broadcasts.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "automessage"
+      }
+    },
+    {
+      "name": "10 Slots / Only Hotbar",
+      "desc": "You can only access your hotbar and every other inventory slot is locked",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "10slots"
+      }
+    },
+    {
+      "name": "Protectcord",
+      "desc": "Protectcord is an anti VPN/Proxy plugin it uses an advanced API to check if an IPv4/IPv6 is a VPN or Proxy!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "protectcord"
+      }
+    },
+    {
+      "name": "PortForwarded",
+      "desc": "Securely expose your Server instance to the internet without tweaking your router.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "portforwarded"
+      }
+    },
+    {
+      "name": "LeafRTP | Random Teleport",
+      "desc": "Fast Random Teleportation for everyone, configurable and extensible",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "leafrtp"
+      }
+    },
+    {
+      "name": "MySQL JDBC",
+      "desc": "MySQL JDBC driver for Fabric/Forge/Spigot",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "mysql-jdbc"
+      }
+    },
+    {
+      "name": "MiraiMC",
+      "desc": "A mirai bot for Minecraft servers.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "miraimc"
+      }
+    },
+    {
+      "name": "TaterLib",
+      "desc": "A cross API code library for various generalizations used in the Tater* plugins",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "taterlib"
+      }
+    },
+    {
+      "name": "HutoolCore",
+      "desc": "Provides a configuration file management and online configuration file modification function",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "hutoolcore"
+      }
+    },
+    {
+      "name": "World Altitude Control",
+      "desc": "Control Minecraft dimensional Altitude",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "world-altitude-control"
+      }
+    },
+    {
+      "name": "Better Shulkers",
+      "desc": "Improves shulker boxes by adding automatic item collection system and lets you open them with a right-click!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "better-shulkers"
+      }
+    },
+    {
+      "name": "ChatPlugin",
+      "desc": "A feature-rich and modular chat ecosystem, lightweight and efficient by design.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "chatplugin"
+      }
+    },
+    {
+      "name": "PlayerDataSync",
+      "desc": "Seamless Cross-Server Player Data Synchronization​",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "playerdatasync"
+      }
+    },
+    {
+      "name": "AdvancedPlayTime [1.21 - 1.26]",
+      "desc": "⏳ The ultimate playtime tracker — fast, precise, fully customizable.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "advancedplaytime"
+      }
+    },
+    {
+      "name": "pv-addon-nickname",
+      "desc": "Plasmo Voice nickname addon. One universal jar - tested on Paper/Folia/Fabric/Forge/NeoForge/Velocity/Arclight",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "pv-addon-nickname"
+      }
+    },
+    {
+      "name": "Zones",
+      "desc": "Modern region management plugin/mod",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "zones"
+      }
+    },
+    {
+      "name": "More Rules",
+      "desc": "More rules is a plugin and mod that provides extra GameRules to allow fine-tuning of features on your server, ",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "more-rules"
+      }
+    },
+    {
+      "name": "Switchboard",
+      "desc": "A simple, cross API plugin that bridges communication between servers, using built-in Proxy methods, Discord c",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "switchboard"
+      }
+    },
+    {
+      "name": "ServerChan",
+      "desc": "Bring AI to your Minecraft server - an intelligent chatbot that interacts with players and responds to in-game",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "serverchan"
+      }
+    },
+    {
+      "name": "Fair Fight",
+      "desc": "A simple anti-combat-logging mod for all platforms",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "fair-fight"
+      }
+    },
+    {
+      "name": "BeeNameGenerator",
+      "desc": "A Minecraft plugin that implements the bee-name-generator API to generate bee names automagically",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "beenamegenerator"
+      }
+    },
+    {
+      "name": "LPPronouns",
+      "desc": "A simple, cross API plugin that allows players to set their pronouns.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "lppronouns"
+      }
+    },
+    {
+      "name": "modl",
+      "desc": "Streamline administrative duties with AI, dynamic punishments, and a slick web-interface",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "modl"
+      }
+    },
+    {
+      "name": "ulib",
+      "desc": "general purose library",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "ulib"
+      }
+    },
+    {
+      "name": "SepareWorldsItems",
+      "desc": "SEPARE WORLD ITEMS INVENTORY   Add-on that sets a different inventory in each world.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "separeworldsitems"
+      }
+    },
+    {
+      "name": "KH Thirst Bar",
+      "desc": "Adds a Thirst Bar/Temperature gauge to the actionbar. You control the difficulty. Walking, Running, Jumping, S",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "kh-thirst-bar"
+      }
+    },
+    {
+      "name": "Minecraft MySQL JDBC",
+      "desc": "Up-to-date MySQL Connector/J wrapped as a universal Forge/Fabric/Bukkit library for plugins like Grim.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "minecraft-mysql-jdbc"
+      }
+    },
+    {
+      "name": "Ultra Chunk Collector",
+      "desc": "⚡ The Ultimate Chunk Hopper - Instant Item Collection & Stacker Friendly! ⚡",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "ultra-chunk-collector"
+      }
+    },
+    {
+      "name": "Fair Play for Xaero's Maps",
+      "desc": "Forces fair play mode on Xaero's World Map and Mini Map",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "fair-play-for-xaeros-maps"
+      }
+    },
+    {
+      "name": "MariaDB JDBC",
+      "desc": "MariaDB JDBC driver for Fabric/Forge/Spigot",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "mariadb-jdbc"
+      }
+    },
+    {
+      "name": "KillC",
+      "desc": "This plugin allows to /kill for the player if my /stuck doesn't work!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "killc"
+      }
+    },
+    {
+      "name": "Javelin Throw",
+      "desc": "Transform your tridents into powerful javelins with the Trident Javelin Throw plugin! Perfect for competitive ",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "javelin"
+      }
+    },
+    {
+      "name": "ModernShowcase",
+      "desc": "Advanced glass showcase, display anything with custom angles and extreme lightweight performance.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "modernshowcase"
+      }
+    },
+    {
+      "name": "Microsoft SQL JDBC",
+      "desc": "Microsoft SQL JDBC driver for Forge/Fabric/Spigot",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "microsoft-sql-jdbc"
+      }
+    },
+    {
+      "name": "Telecompass",
+      "desc": "Craft custom compasses that can teleport to their linked lodestones. Permissions fully integrated to craft, us",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "telecompass"
+      }
+    },
+    {
+      "name": "Withdrawer",
+      "desc": "Withdraw various currencies into physical items!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "withdrawer"
+      }
+    },
+    {
+      "name": "AltAuth",
+      "desc": "AltAuth allows banned accounts to join servers with AltAuth.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "altauth"
+      }
+    },
+    {
+      "name": "Optometrist",
+      "desc": "A cross-platform render distance manipulation mod",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "optometrist"
+      }
+    },
+    {
+      "name": "WorldNamePacket",
+      "desc": "Server-side companion for mapping mods.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "worldnamepacket"
+      }
+    },
+    {
+      "name": "Minecraft Jedis (Redis Driver)",
+      "desc": "Up-to-date Jedis Redis client wrapped as a universal Forge/Fabric/Bukkit library for plugins like Grim.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "minecraft-jedis"
+      }
+    },
+    {
+      "name": "Minecraft MongoDB Driver",
+      "desc": "Up-to-date MongoDB Java sync driver wrapped as a universal Forge/Fabric/Bukkit library for plugins like Grim.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "minecraft-mongodb-driver"
+      }
+    },
+    {
+      "name": "Minecraft PostgreSQL JDBC",
+      "desc": "Universal jar shipping the PostgreSQL JDBC driver as a Bukkit/Spigot/Paper plugin and Fabric/Forge/NeoForge mo",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "minecraft-postgresql-jdbc"
+      }
+    },
+    {
+      "name": "CatoAPI",
+      "desc": "Personal API for Katto's mods!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "catoapi"
+      }
+    },
+    {
+      "name": "FoxCore",
+      "desc": "A powerful server-side tool library",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "foxcore"
+      }
+    },
+    {
+      "name": "K-Explosion",
+      "desc": "Bring K-Explosion Back. Just an imitation of the vanilla.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "k-explosion"
+      }
+    },
+    {
+      "name": "BlueMap Entities",
+      "desc": "Render entities like monsters, animals & boats on your bluemap with the full model",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "bluemap-entities"
+      }
+    },
+    {
+      "name": "Mob Conduit",
+      "desc": "Building a conduit out of netherite blocks (configurable) and placing an end crystal in the middle will result",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "mob-conduit"
+      }
+    },
+    {
+      "name": "VeinMiner Enchantment",
+      "desc": "Veinminer Addon - Adds vineminer enchantment to enchanting tables. Only tools with the enchantment can veinmin",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "veinminer-enchantment"
+      }
+    },
+    {
+      "name": "kyoyu",
+      "desc": "Share .litematic with other players on the server. Litematica and Forgematica support. Inspired by Syncmatica.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "kyoyu"
+      }
+    },
+    {
+      "name": "Hand Shaker",
+      "desc": "Solution for server owners or modpack developers to disconnect users with unwanted mods, allow or require mods",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "hand-shaker"
+      }
+    },
+    {
+      "name": "ViaAprilFools",
+      "desc": "ViaVersion addon to add support for some notable Minecraft snapshots.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "viaaprilfools"
+      }
+    },
+    {
+      "name": "Compact Diamonds",
+      "desc": "No need to carry too many shulkers because you happen to be too rich. Just pack them together into a Compact B",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "compact-diamonds"
+      }
+    },
+    {
+      "name": "RustyConnector",
+      "desc": "Register new servers without restarting Velocity!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "rustyconnector"
+      }
+    },
+    {
+      "name": "Pl3xMarkers",
+      "desc": "A massive collection of markers for Pl3xMap. Including support for mods like Shopkeepers and Open Parties & Cl",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "pl3xmarkers"
+      }
+    },
+    {
+      "name": "NeoSpeed Zero",
+      "desc": "Customizable Speedrun Goals (Data Pack-driven)",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "neospeedzero"
+      }
+    },
+    {
+      "name": "Pronouns",
+      "desc": "Add pronouns from PronounsDB to Minecraft!",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "kore-pronouns"
+      }
+    },
+    {
+      "name": "LoadResourcepackFromServer",
+      "desc": "Have the client download the resource pack directly from the game server.(on the game port)",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "loadresourcepackfromserver"
+      }
+    },
+    {
+      "name": "BiomeBundleReloaded",
+      "desc": "BiomeBundle is back !",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "bbr"
+      }
+    },
+    {
+      "name": "Shulker Trims",
+      "desc": "shulker box + armor trim + smithing table = tell your boxes apart at a glance",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "shulker-trims"
+      }
+    },
+    {
+      "name": "Guithium",
+      "desc": "Allows Paper plugins to add GUIs to Fabric clients.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "guithium"
+      }
+    },
+    {
+      "name": "leaf-treegen",
+      "desc": "adds tree variety to the world, based on species json.",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "modrinth",
+      "src": {
+        "slug": "leaf-treegen"
+      }
+    },
+    {
+      "name": "Simple Tpa",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 64270
+      }
+    },
+    {
+      "name": "Set Home",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 32748
+      }
+    },
+    {
+      "name": "LoginSecurity",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 19362
+      }
+    },
+    {
+      "name": "LifeSteal SMP Plugin",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 94387
+      }
+    },
+    {
+      "name": "GSit - Modern Sit (Seat and Chair), Lay and Crawl Plugin! - [1.16 - 26.2]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 62325
+      }
+    },
+    {
+      "name": "NametagEdit",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 3836
+      }
+    },
+    {
+      "name": "ZNPCs",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 80940
+      }
+    },
+    {
+      "name": "ClearLagg",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 68271
+      }
+    },
+    {
+      "name": "Bedrock Player Managment for Floodgate (Geyser)",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 82278
+      }
+    },
+    {
+      "name": "VeinMiner",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 12038
+      }
+    },
+    {
+      "name": "LifeSteal",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 105511
+      }
+    },
+    {
+      "name": "--=[ SuperLobbyPlus | Advanced Lobby | Animated ScoreBoard - Chat - Commands ]=-- - ABANDONED",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 43816
+      }
+    },
+    {
+      "name": "BetterRTP | Random Wild Teleport",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 36081
+      }
+    },
+    {
+      "name": "Better Teams",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 17129
+      }
+    },
+    {
+      "name": "Graves",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 74208
+      }
+    },
+    {
+      "name": "ItemEdit [1.8.x-26.x]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 40993
+      }
+    },
+    {
+      "name": "SuperVanish >> Be invisible",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 1331
+      }
+    },
+    {
+      "name": "ChangeSkin",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 21469
+      }
+    },
+    {
+      "name": "ASkyBlock",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 1220
+      }
+    },
+    {
+      "name": "Lib's Disguises [Free]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 81
+      }
+    },
+    {
+      "name": "Dream Man Hunt",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 74199
+      }
+    },
+    {
+      "name": "SmoothTimber",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 39965
+      }
+    },
+    {
+      "name": "OpeNLogin [1.7X -1.21X]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 57272
+      }
+    },
+    {
+      "name": "TreeAssist",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 67436
+      }
+    },
+    {
+      "name": "WorldEditSelectionVisualizer [1.7.10-26.2.x]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 17311
+      }
+    },
+    {
+      "name": "CratesPlus - Free Crates Plugin! [1.8 - 1.16.4]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 5018
+      }
+    },
+    {
+      "name": "AdvancedBan",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 8695
+      }
+    },
+    {
+      "name": "Jobs Reborn",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 4216
+      }
+    },
+    {
+      "name": "AuctionHouse",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 61836
+      }
+    },
+    {
+      "name": "AlwaysOnline",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 820
+      }
+    },
+    {
+      "name": "DeluxeHub 3 - Professional Hub Management",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 49425
+      }
+    },
+    {
+      "name": "AuraSkills",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 81069
+      }
+    },
+    {
+      "name": "ChatControl™ - The Ultimate Chat Plugin [500,000+ Downloads] [1.2.5 - 1.16.4]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 271
+      }
+    },
+    {
+      "name": "DecentHolograms | 1.8 - 26.2 | Displays | PAPI Support | No Dependencies",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 96927
+      }
+    },
+    {
+      "name": "Custom Items Plugin - Executable Items",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 77578
+      }
+    },
+    {
+      "name": "ViaVersionStatus",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 66959
+      }
+    },
+    {
+      "name": "Action Bar Health",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 2661
+      }
+    },
+    {
+      "name": "ImageOnMap",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 26585
+      }
+    },
+    {
+      "name": "Chunky",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 81534
+      }
+    },
+    {
+      "name": "[LEGACY] PlotSquared v4: v6 out now!",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 1177
+      }
+    },
+    {
+      "name": "CombatLogX",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 31689
+      }
+    },
+    {
+      "name": "Grim Anticheat",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 99923
+      }
+    },
+    {
+      "name": "ItemTag [1.8.x-26.x]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 89634
+      }
+    },
+    {
+      "name": "Phoenix Anti-Cheat",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 6207
+      }
+    },
+    {
+      "name": "AnimatedScoreboard",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 20848
+      }
+    },
+    {
+      "name": "Skript",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 114544
+      }
+    },
+    {
+      "name": "InvSee++",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 82342
+      }
+    },
+    {
+      "name": "OpenAudioMc -  Proximity Voice Chat  and Music without mods",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 30691
+      }
+    },
+    {
+      "name": "RedProtect Anti-Grief | Server Protection | Region Management | Mod MOBs Flag Compat. [1.7-1.21+]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 15841
+      }
+    },
+    {
+      "name": "GUIShop",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 2451
+      }
+    },
+    {
+      "name": "GadgetsMenu [Free]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 10885
+      }
+    },
+    {
+      "name": "ExcellentCrates ⭐ Advanced Free Crates Plugin",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 48732
+      }
+    },
+    {
+      "name": "OnePlayerSleep",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 76534
+      }
+    },
+    {
+      "name": "SimpleScore | Animated Scoreboard",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 23243
+      }
+    },
+    {
+      "name": "ClickTpa",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 62596
+      }
+    },
+    {
+      "name": "Screaming BedWars [1.8.8 - 26.2]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 63714
+      }
+    },
+    {
+      "name": "MTVehicles | Vehicle Plugin | Free downloadable",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 80910
+      }
+    },
+    {
+      "name": "Quality Armory",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 47561
+      }
+    },
+    {
+      "name": "Custom Images",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 53036
+      }
+    },
+    {
+      "name": "SpawnTP",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 13527
+      }
+    },
+    {
+      "name": "Shop",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 8185
+      }
+    },
+    {
+      "name": "MonsterHamster",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 91967
+      }
+    },
+    {
+      "name": "MinigamesLib",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 23844
+      }
+    },
+    {
+      "name": "FloodgateCP",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 96902
+      }
+    },
+    {
+      "name": "LeafRTP | Paper, Folia, Velocity",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 94812
+      }
+    },
+    {
+      "name": "SkyWars",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 23852
+      }
+    },
+    {
+      "name": "TerraformGenerator [1.21.10-26.2]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 75132
+      }
+    },
+    {
+      "name": "Morph",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 8846
+      }
+    },
+    {
+      "name": "Manhunt+ [1.16x - 26x]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 86708
+      }
+    },
+    {
+      "name": "✪ SuperLobbyDeluxe |  [1.8.8 - 1.21.x] ✪",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 20400
+      }
+    },
+    {
+      "name": "BlockLocker",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 3268
+      }
+    },
+    {
+      "name": "PlayerKits | Fully Configurable KITS! [1.8-1.20]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 75185
+      }
+    },
+    {
+      "name": "Economy++",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 54958
+      }
+    },
+    {
+      "name": "Item Editor 2",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 27637
+      }
+    },
+    {
+      "name": "✨ StormItemy - Przedmioty z Anarchia.GG",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 122499
+      }
+    },
+    {
+      "name": "CMILib",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 87610
+      }
+    },
+    {
+      "name": "Sleep most [1.8 > 1.21.X] The most advanced sleep plugin available (percentage, animations, ..)",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 60623
+      }
+    },
+    {
+      "name": "DiceFurniture Plugin / Möbel Plugin",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 6006
+      }
+    },
+    {
+      "name": "[1.17.1 - 26.2] Ultra Cosmetics [OPENSOURCE & FREE!!]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 10905
+      }
+    },
+    {
+      "name": "iDisguise",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 5509
+      }
+    },
+    {
+      "name": "CratesPlus Reloaded",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 95122
+      }
+    },
+    {
+      "name": "SimpleLay",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 79110
+      }
+    },
+    {
+      "name": "ExcellentEnchants ⭐ 80+ Vanilla-like Enchantments",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 61693
+      }
+    },
+    {
+      "name": "Bedwars-Rel",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 6799
+      }
+    },
+    {
+      "name": "KitPvP [1.8-1.21] [CUSTOM KITS, CUSTOM ABILITIES, LEADERBOARDS, GUI, LEVELS, KILL STREAKS, MORE!]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 27107
+      }
+    },
+    {
+      "name": "CitizensCMD",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 30224
+      }
+    },
+    {
+      "name": "ProtectionStones [Updated for 1.21+]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 61797
+      }
+    },
+    {
+      "name": "Holograms",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 4924
+      }
+    },
+    {
+      "name": "Iridium Skyblock [1.13-1.21.10]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 62480
+      }
+    },
+    {
+      "name": "Magic",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 1056
+      }
+    },
+    {
+      "name": "Life Steal SMP Plugin",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 94424
+      }
+    },
+    {
+      "name": "MOTD [1.8 - 1.20]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 8390
+      }
+    },
+    {
+      "name": "AngelChest Free",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 60383
+      }
+    },
+    {
+      "name": "BetterSleeping",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 60837
+      }
+    },
+    {
+      "name": "GWarp - Warp / Home Plugin - [1.7 - 26.2]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 56824
+      }
+    },
+    {
+      "name": "ChatColor+",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 1546
+      }
+    },
+    {
+      "name": "Quests",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 3711
+      }
+    },
+    {
+      "name": "MineResetLite",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 5773
+      }
+    },
+    {
+      "name": "AdvancedTeleport",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 64139
+      }
+    },
+    {
+      "name": "(Abandoned) [Animated Tab] - TabList",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 46229
+      }
+    },
+    {
+      "name": "spark",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 57242
+      }
+    },
+    {
+      "name": "FurnitureLibary/ProtectionLib",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 9368
+      }
+    },
+    {
+      "name": "✯ Custom Enchantments 3 - RPG ✯ [1.16 - 26.2] ✯",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 89793
+      }
+    },
+    {
+      "name": ":【UltimateHomes】: Highly configurable player sethome system [1.8-26.2.x]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 64210
+      }
+    },
+    {
+      "name": "SetSpawn || [1.17.X- 1.21.X] || A Lot of Features & Fully Customisable!",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 31966
+      }
+    },
+    {
+      "name": "FastLogin",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 14153
+      }
+    },
+    {
+      "name": "MyCommand",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 22272
+      }
+    },
+    {
+      "name": "ajLeaderboards",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 85548
+      }
+    },
+    {
+      "name": "WorldGuard Extra Flags",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 4823
+      }
+    },
+    {
+      "name": "SternalBoard | Simple & Animated Scoreboard |",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 89245
+      }
+    },
+    {
+      "name": "Fast Chunk Pregenerator",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 74429
+      }
+    },
+    {
+      "name": "CommandPanels",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 67788
+      }
+    },
+    {
+      "name": "Armor Stand Tools",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 2237
+      }
+    },
+    {
+      "name": "Kyren's Minecraft Lifesteal Plugin [1.16/1.17.1.18/1.19/1.19.1/1.20]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 98455
+      }
+    },
+    {
+      "name": "ChestSort (+ API)",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 59773
+      }
+    },
+    {
+      "name": "Plasmo Voice Server",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 91064
+      }
+    },
+    {
+      "name": "RealScoreboard",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 22928
+      }
+    },
+    {
+      "name": "Combat Weaponry Plus [1.20]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 84248
+      }
+    },
+    {
+      "name": "NBT API",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 7939
+      }
+    },
+    {
+      "name": "Chat Manager | 1.8 ~ 1.20+ | 30+ Features and 40+ Commands!",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 52245
+      }
+    },
+    {
+      "name": "Staff+ | The Ultimate Moderation Plugin | 1.7-1.11",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 15151
+      }
+    },
+    {
+      "name": "ProjectKorra (Core)",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 2734
+      }
+    },
+    {
+      "name": "UserLogin",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 80669
+      }
+    },
+    {
+      "name": "Admin-Commands",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 37839
+      }
+    },
+    {
+      "name": "PlayerKits 2 | Fully Configurable KITS! [1.8-26.2]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 112616
+      }
+    },
+    {
+      "name": "Star's Manhunt Compass - 1.16.2+, Works in Nether!",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 82955
+      }
+    },
+    {
+      "name": "FlyToggle",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 46634
+      }
+    },
+    {
+      "name": "Minepacks (Backpack Plugin) (MC 1.7-26.2)",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 19286
+      }
+    },
+    {
+      "name": "HubThat",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 1166
+      }
+    },
+    {
+      "name": "Back",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 94702
+      }
+    },
+    {
+      "name": "⭐ CataMines ⭐ | SkyMining | Prison | Mines",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 96457
+      }
+    },
+    {
+      "name": "Chatty - Lightweight universal Bukkit chat-system solution [1.7.10 - 1.20]",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 59411
+      }
+    },
+    {
+      "name": "⚡ P-LifeSteal | 1.18-1.19.2 SUPPORT ✅ SMP Ready ✅ Revive Book ✅ Highly Configurable ✅",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 101967
+      }
+    },
+    {
+      "name": "BedWars1058 - OpenSource",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 97320
+      }
+    },
+    {
+      "name": "Single Player Sleep",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 20173
+      }
+    },
+    {
+      "name": "Duels",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 20171
+      }
+    },
+    {
+      "name": "PermaDeathCore | ☠️",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 78993
+      }
+    },
+    {
+      "name": "ServerListPlus",
+      "desc": "SpigotMC plugin downloaded from spigotmc.org",
+      "version": "Latest",
+      "category": "misc",
+      "platform": "both",
+      "source": "spigotmc",
+      "src": {
+        "spiget": 241
+      }
     }
   ]
 }
